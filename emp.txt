@@ -1,0 +1,5 @@
+E100 Sai FullStackDev 100000
+E101 Teja SoftDev 70000
+E102 Reddy DevEnggr 200000
+E103 Chinna FrontendDev 100000
+E104 Pamidi BackendDev 100000
